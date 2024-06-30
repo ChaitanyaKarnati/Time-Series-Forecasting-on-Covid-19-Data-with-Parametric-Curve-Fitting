@@ -7,3 +7,13 @@ Time Series Forecasting on Covid-19 Data with Parametric Curve Fitting | ML &amp
 3. Forecasting of the COVID-19 outbreak aims to predict the number of confirmed cases and fatalities that would occur in the next 365 days by the spread of the Corona virus using FbProphet model.
 4. This aims to make the public aware of the consequences of not following the health safety measures.
 5. These prediction systems can be very helpful in decision making to handle the present scenario to guide early interventions to manage these diseases very effectively.
+
+# Technologies used:
+Python
+Pandas
+Scikit-Learn
+Flask
+CORS
+Scipy
+Lmfit
+Postman API
