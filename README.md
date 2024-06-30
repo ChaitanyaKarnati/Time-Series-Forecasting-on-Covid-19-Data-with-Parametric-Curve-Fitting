@@ -9,11 +9,12 @@ Time Series Forecasting on Covid-19 Data with Parametric Curve Fitting | ML &amp
 5. These prediction systems can be very helpful in decision making to handle the present scenario to guide early interventions to manage these diseases very effectively.
 
 # Technologies used:
-Python
-Pandas
-Scikit-Learn
-Flask
-CORS
-Scipy
-Lmfit
-Postman API
+1. Python
+2. Pandas
+3. Scikit-Learn
+4. Flask
+5. CORS - Cross-Origin Resource Sharing
+6. Scipy
+7. Lmfit
+8. Postman API
+9. Prophet
